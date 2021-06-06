@@ -1,16 +1,8 @@
 <h1 align="center">ANURAG </h1>
 
-- I’m currently working on **Front-End Development**
+-  Completed Graduation (May-2021) In the field of **AI & Robotics**.
 
-- I’m looking to collaborate on <a href="https://github.com/Rupam-Shil/ML-mini-projects.git"><strong>ML-miniprojects</strong></a>
-
-- I’m looking for help with **MEVN Stack**
-
-- All of my projects are available at [https://github.com/Rupam-Shil?tab=repositories](https://github.com/Rupam-Shil?tab=repositories)
-
-- I regulary create content on [https://www.instagram.com/mlbackbenchers/](https://www.instagram.com/mlbackbenchers/)
-
-- Ask me about **Machine-Learning, Web-Dev, Python**
+- Looking for job opportunities as well as Internships related my field.
 
 
 ## Technical Skills
@@ -52,17 +44,3 @@
 </tr>
 
 </table>
-
-
-<p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
-
-  <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/rupam.shil.14" alt="Facebook"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/facebook.png"></a>
-    <a target= "_blank" href="https://github.com/Rupam-Shil/" alt="Github"><img height='45' src="hhttps://github.com/Rupam-Shil/Rupam-Shil/blob/master/github.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/imrupamshil/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/mlbackbenchers/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
-    <a target= "_blank" href="https://www.linkedin.com/in/rupam-shil/" alt="LinkedIn"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/linkedin.png"></a>
-    
-  </p>
-
